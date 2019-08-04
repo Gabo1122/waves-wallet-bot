@@ -9,8 +9,8 @@ const Scene = require('telegraf/scenes/base');
 const { enter, leave } = Stage;
 
 const CONFIG = {
-	bot_token: '',
-	database_url: '',
+	bot_token: '979672159:AAGTRYSX4JK1OIA7VUI4qm6EZHd-ACFkpnw',
+	database_url: 'mongodb://localhost:27017/wavesdb',
 	admin_id: ''
 };
 
